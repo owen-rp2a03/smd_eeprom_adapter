@@ -1,2 +1,3 @@
-# eeprom_adapter
-SMD Under-side THT EEPROM Adapter
+# SMD to THT Under-side EEPROM Adapter
+
+
