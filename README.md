@@ -1,5 +1,4 @@
 # SMD to THT Under-side EEPROM Adapter
 
-<picture href=images/48tsop-32dip-front.png>
-<picture href=images/48tsop-32dip-back.png>
+<img style="width:49%" src=images/48tsop-32dip-top.png> <img style="width:49%" src=images/48tsop-32dip-back.png>
 
