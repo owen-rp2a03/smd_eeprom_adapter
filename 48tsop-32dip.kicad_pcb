@@ -3251,14 +3251,14 @@
 			(justify left)
 		)
 	)
-	(gr_text "github.com/owen-rp2a03/smd_eeprom_adapter"
-		(at 115.189 86.36 90)
+	(gr_text "github.com/owen-rp2a03/\n			smd_eeprom_adapter"
+		(at 115.443 87.249 90)
 		(layer "F.SilkS")
 		(uuid "ea00e933-577a-4e44-9fa0-93c5050058a3")
 		(effects
 			(font
-				(size 0.5 0.375)
-				(thickness 0.075)
+				(size 0.6 0.55)
+				(thickness 0.1)
 				(bold yes)
 			)
 			(justify bottom)
